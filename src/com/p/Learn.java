@@ -5,7 +5,7 @@ public class Learn {
 
 	public static void main(String[] args) {
 		
-		List<Integer>l1=Arrays.asList(1,5,4,7,8,9,1,4);
+		/*List<Integer>l1=Arrays.asList(1,5,4,7,8,9,1,4);
       System.out.println("unique objects");
 		
 	long count=l1.stream().distinct().count();
@@ -64,7 +64,9 @@ public class Learn {
     reSet.add("five orange");
     
     boolean res8=reSet.stream().anyMatch(v->{return v.startsWith("one");});
-    System.out.println(res8);
+    System.out.println(res8); */
+
+		System.out.println("working");
     
     
     
